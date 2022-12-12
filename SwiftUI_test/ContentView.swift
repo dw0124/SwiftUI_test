@@ -18,6 +18,7 @@ struct ContentView: View {
         NavigationView {
             VStack {
                 HStack{
+                    
                     MyVstackView()
                     MyVstackView()
                     MyVstackView()
